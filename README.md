@@ -22,4 +22,4 @@ To run a test, type on terminal
  
  
  
- ### This project was based on the course "Introduction to Cypress" from Test Automation University. 
+ #### *This project was based on the course "Introduction to Cypress" from Test Automation University.* 
